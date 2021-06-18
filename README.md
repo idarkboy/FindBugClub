@@ -5,7 +5,7 @@
   <p>inurl:php?=id1</p><br>
 <p>inurl:index.php?id=</p><br>
 <p>inurl:trainers.php?id=</p><br>
-<p>inurl:buy.php?category=</p><br></p><br>
+<p>inurl:buy.php?category=</p><br>
 <p>inurl:article.php?ID=</p><br>
 <p>inurl:play_old.php?id=</p><br>
 <p>inurl:declaration_more.php?decl_id=</p><br>
