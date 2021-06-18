@@ -10,7 +10,7 @@
 <p>inurl:play_old.php?id=</p><br>
 <p>inurl:declaration_more.php?decl_id=</p><br>
 <p>inurl:pageid=</p><br>
-<p>inurl:games.php?i<p>d=</p><br>
+<p>inurl:games.php?id=</p><br>
 <p>inurl:page.php?file=</p><br>
 <p>inurl:newsDetail.php?id=</p><br>
 <p>inurl:gallery.php?id=</p><br>
