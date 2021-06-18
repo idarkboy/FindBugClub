@@ -1,5 +1,7 @@
 # Google-Dork
-
+<html>
+  <head>
+    <body>
 <h2>Using special search string to find vulnerable websites:<h2>
 
   <p>inurl:php?=id1</p><br>
@@ -36,3 +38,6 @@
 <p>inurl:staff_id=</p><br>
 <p>inurl:staff_id=</p><br>
 <p>inurl:newsitem.php?num=</p><br>
+</body>
+  </head>
+  </html>
