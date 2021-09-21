@@ -1,9 +1,11 @@
 # BugBountyDorks
-* basic to advance 
-* 
-* This will help newbies and beginner to build their confidence before going on big platform.
-* 
+
+# basic to advance 
+
+* This will help newbies and beginner to build their confidence before going on big platform. 
 * This will help you to find private bug bounty programs across the globe.
+
+# There Is it:
 
 
 inurl:php?=id1
