@@ -1,7 +1,6 @@
 # BugBountyDorks
-
- #basic to advance 
-  #This will help newbies and beginner to build their confidence before going on big platform.
+# basic to advance 
+# This will help newbies and beginner to build their confidence before going on big platform.
 
 inurl:php?=id1
   
