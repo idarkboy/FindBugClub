@@ -1,39 +1,166 @@
 # BugBountyDorks
 
 #<h2>Using special search string to find vulnerable websites:<h2>
+ basic to advance 
+  This will help newbies and beginner to build their confidence before going on big platform.
 
-<p>inurl:php?=id1</p><br>
-#<p>inurl:index.php?id=</p><br>
-#<p>inurl:trainers.php?id=</p><br>
-#<p>inurl:buy.php?category=</p><br>
-#<p>inurl:article.php?ID=</p><br>
-#<p>inurl:play_old.php?id=</p><br>
-#<p>inurl:declaration_more.php?decl_id=</p><br>
-#<p>inurl:pageid=</p><br>
-#<p>inurl:games.php?id=</p><br>
-#<p>inurl:page.php?file=</p><br>
-#<p>inurl:newsDetail.php?id=</p><br>
-#<p>inurl:gallery.php?id=</p><br>
-#<p>inurl:article.php?id=</p><br>
-#<p>inurl:show.php?id=</p><br>
-#<p>inurl:staff_id=</p><br>
-#<p>inurl:newsitem.php?num= andinurl:index.php?id=</p><br>
-#<p>inurl:trainers.php?id=</p><br>
-#<p>inurl:buy.php?category=</p><br>
-#<p>inurl:article.php?ID=</p><br>
-#<p>inurl:play_old.php?id=</p><br>
-#<p>inurl:declaration_more.php?decl_id=</p><br>
-#<p>inurl:pageid=</p><br>
-#<p>inurl:games.php?id=</p><br>
-#<p>inurl:page.php?file=</p><br>
-#<p>inurl:newsDetail.php?id=</p><br>
-#<p>inurl:gallery.php?id=</p><br>
-#<p>inurl:article.php?id=</p><br>
-#<p>inurl:show.php?id=</p><br>
-#<p>inurl:staff_id=</p><br>
-#<p>inurl:staff_id=</p><br>
-#<p>inurl:staff_id=</p><br>
-#<p>inurl:staff_id=</p><br>
-#<p>inurl:staff_id=</p><br>
-#<p>inurl:newsitem.php?num=</p><br>
+inurl:php?=id1
+  
+inurl:index.php?id=
+  
+inurl:trainers.php?id=
+  
+inurl:buy.php?category=
+  
+inurl:article.php?ID=
+  
+inurl:play_old.php?id=
+  
+inurl:declaration_more.php?decl_id=
+  
+inurl:pageid=
+  
+inurl:games.php?id=
+  
+inurl:page.php?file=
+  
+inurl:newsDetail.php?id=
+  
+inurl:gallery.php?id=
+
+inurl:article.php?id=
+  
+inurl:show.php?id=
+
+inurl:staff_id=
+  
+inurl /bug bounty
+
+inurl : / security
+
+inurl:security.txt
+
+inurl:security "reward"
+
+inurl : /responsible disclosure
+
+inurl : /responsible-disclosure/ reward
+
+inurl : / responsible-disclosure/ swag
+
+inurl : / responsible-disclosure/ bounty
+
+inurl:'/responsible disclosure' hoodie
+
+responsible disclosure swag r=h:com
+
+responsible disclosure hall of fame
+
+responsible disclosure europe
+
+responsible disclosure white hat
+
+white hat program
+
+insite:"responsible disclosure" -inurl:nl
+
+intext responsible disclosure
+
+site eu responsible disclosure
+
+site .nl responsible disclosure
+
+site responsible disclosure
+
+responsible disclosure:sites
+
+responsible disclosure r=h:nl
+
+responsible disclosure r=h:uk
+
+responsible disclosure r=h:eu
+
+responsible disclosure bounty r=h:nl
+
+responsible disclosure bounty r=h:uk
+
+responsible disclosure bounty r=h:eu
+
+responsible disclosure swag r=h:nl
+
+responsible disclosure swag r=h:uk
+
+responsible disclosure swag r=h:eu
+
+responsible disclosure reward r=h:nl
+
+responsible disclosure reward r=h:uk
+
+responsible disclosure reward r=h:eu
+
+"powered by bugcrowd" -site:bugcrowd.com
+
+"powered by hackerone" "submit vulnerability report"
+
+"submit vulnerability report"
+
+site:responsibledisclosure.com
+
+inurl:'vulnerability-disclosure-policy' reward
+
+intext:Vulnerability Disclosure site:nl
+
+intext:Vulnerability Disclosure site:eu
+
+site:..nl intext:security report reward
+
+site:..nl intext:responsible disclosure reward
+
+"security vulnerability" "report"
+
+inurl"security report"
+
+"responsible disclosure" university
+
+inurl:/responsible-disclosure/ university
+
+buy bitcoins "bug bounty"
+
+inurl:/security ext:txt "contact"
+
+"powered by synack"
+
+intext:responsible disclosure bounty
+
+inurl: private bugbountyprogram
+
+inurl:/.well-known/security ext:txt
+
+inurl:/.well-known/security ext:txt intext:hackerone
+
+inurl:/.well-known/security ext:txt -hackerone -bugcrowd -synack -openbugbounty
+
+inurl:reporting-security-issues
+
+inurl:security-policy.txt ext:txt
+
+site:..* inurl:bug inurl:bounty
+
+site:help.. inurl:bounty
+
+site:support.. intext:security report reward
+
+intext:security report monetary inurl:security
+
+intext:security report reward inurl:report
+
+site:security.. inurl: bounty
+
+site:..de inurl:bug inurl:bounty
+
+site:..uk intext:security report reward
+
+site:..cn intext:security report reward
+
+"vulnerability reporting policy"
 
