@@ -1,4 +1,4 @@
-# BugBountyDorks
+#FindBugClub
 ************************
 Help you find  Web Pentesting Bug 
 *******************************
